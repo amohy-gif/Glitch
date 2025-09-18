@@ -1,0 +1,1 @@
+/* Chat component code will go here */
